@@ -1,0 +1,12 @@
+## Interface: 50400
+## Title: Carbonite Social & Punks 1.0
+## Version: 1.0
+## Author: Rythal
+## Notes: Released Under GPL
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: NXSocial
+## RequiredDeps: Carbonite
+
+NxSocial.lua
+

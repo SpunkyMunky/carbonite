@@ -1,0 +1,14 @@
+## Interface: 50400
+## Title: Carbonite Quest 1.0
+## Version: 1.0
+## Author: Rythal
+## Notes: Released Under GPL
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: NXQuest
+## RequiredDeps: Carbonite
+
+Data\QuestCats.lua
+Data\QuestNPC.lua
+Data\QuestData.xml
+NxQuest.lua
